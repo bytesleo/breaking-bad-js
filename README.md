@@ -1,4 +1,4 @@
-# breking-bad-animation-js
+# breaking-bad-animation-js
 
 Breaking Bad | Walter White | Animation
 
