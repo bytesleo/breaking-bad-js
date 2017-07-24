@@ -23,10 +23,10 @@ cd breaking-bad-js
 npm i
 ```
 
-# Start
+## Start
 
 `npm start`
 
-## Demo online
+## Demo
 
-[view demo](http://codepen.io/kevoj/pen/BWgvOj)
+[view demo online](http://codepen.io/kevoj/pen/BWgvOj)
