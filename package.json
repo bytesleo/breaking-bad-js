@@ -1,10 +1,10 @@
 {
   "name": "breaking-bad-js",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Experiment of animation in TREEJS based on the character Walter White of the series Breaking Bad",
   "main": "index.js",
   "scripts": {
-    "build": "webpack && webpack-dev-server --open http://localhost:8080",
+    "start": "webpack && webpack-dev-server --open http://localhost:8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
