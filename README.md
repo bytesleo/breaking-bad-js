@@ -1,6 +1,6 @@
 # breaking-bad-js
 
-Breaking Bad | Walter White | Animation
+> Experiment of animation in TREEJS based on the character Walter White of the series Breaking Bad Edit
 
 <img src="https://image.ibb.co/dSESo5/Screenshot_at_2017_04_08_16_43_40.png" width="400">
 
