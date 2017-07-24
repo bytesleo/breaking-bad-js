@@ -1,4 +1,4 @@
-# breaking-bad-animation-js
+# breaking-bad-js
 
 Breaking Bad | Walter White | Animation
 
@@ -14,6 +14,18 @@ Breaking Bad | Walter White | Animation
 │   └── /main.js            # main script
 └── index.html              # main html
 ```
+
+## Installation
+
+```bash
+git clone https://github.com/kevoj/breaking-bad-js
+cd breaking-bad-js
+npm i
+```
+
+# Start
+
+`npm start`
 
 ## Demo online
 
